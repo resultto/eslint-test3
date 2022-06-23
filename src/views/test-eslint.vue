@@ -6,6 +6,7 @@ export default {
   data() {
     return {
       test: 0,
+      
       TEST1: 11       
     }
   },
